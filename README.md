@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)
 <h1 align="center">Hi 👋, I'm Darwin Ortozar</h1>
-<h3 align="center">A passionate frontend developer from Philippines and other stuff such as Desktop application (vb.net, SQL database))</h3>
+<h3 align="center">A passionate frontend developer from Philippines and other stuff such as Desktop application (vb.net, SQL database)</h3>
 <img align="right" alt ="Animated" width="400px" src="https://image.freepik.com/free-vector/programmer-coder-flat-vector-illustration-software-engineer-professional-developer-isolated-cartoon-character-call-center-it-department-worker-freelancer-outsourcer_151150-291.jpg"
 
 - 🔭 I’m currently do [Freelancing](https://www.youtube.com/@darwinortozar4708)
